@@ -26,6 +26,7 @@
 
         <module>data/spring-boot-transaction</module>
         <module>data/spring-boot-cache</module>
+        <module>notonlyrpc/spring-boot-lock</module>
 
     </modules>
 
